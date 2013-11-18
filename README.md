@@ -8,4 +8,4 @@ with user interactions disabled, but forwards touch events to subviews.
 
 Add this line to your project's Podfile:
 
-	pod "DRTouchTransparentView", :git => "https://bitbucket.org/darrarski/DRTouchTransparentView.git"
+	pod "DRTouchTransparentView", :git => "https://bitbucket.org/darrarski/DRTouchTransparentView-iOS.git"
