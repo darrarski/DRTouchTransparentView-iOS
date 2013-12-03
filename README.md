@@ -1,5 +1,5 @@
-DRTouchTransparentView iOS Library
-==================================
+DRTouchTransparentView for iOS
+==============================
 
 UIView cateogry for implementing touch-transparent views that acts like views
 with user interactions disabled, but forwards touch events to subviews.
